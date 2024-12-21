@@ -3,10 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaansh1" alt="akshaansh1" /></a> </p>
 
-- 🌱 I’m currently learning **NextJS , Machine Learning**
-
-- 💬 Ask me about **React**
-
+- 🌱 I’m currently learning **NLP**
+- 
 - 📫 How to reach me **srivastava.akshaansh@gmail.com**
 
 - ⚡ Fun fact **I Think I know chess 😉**
